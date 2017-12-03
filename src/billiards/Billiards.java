@@ -20,6 +20,8 @@ public class Billiards {
         JFrame frame = new JFrame("Collisions!");          
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
+        //förändring!!
+        
         Table table = new Table();     
 
         frame.add(table);  
